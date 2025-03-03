@@ -1,0 +1,19 @@
+#Input function explained
+#Examples of other functions are:
+print("Input function explained")
+bin(8)
+hex(8)
+#Notice they all change colour to purple
+#Notice they all have brackets
+#input()
+#This is another function, but what does it do?
+#Input allows a user to enter data into a program
+#Via the keyboard
+#Data entered by the input function is stored...
+#...in a variable
+#Example:
+
+name = input("Enter name: >>> ")
+print(name)
+print("Hello", name)
+print("so", name, "how are you?")
