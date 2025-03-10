@@ -3,8 +3,8 @@ print("YOU MUST ANSWER THE FOLLOWING QUESTIONS")
 print("")
 print("")
 
-name1 = input("Enter your name: >>> ")
-haircut1 = input("Enter haircut: >>> ")
+name1 = input("Enter your name: >>> ") 
+haircut1 = input("Enter haircut: >>> ") 
 adjective1 = input("Enter adjective: >>> ")
 name2 = input("Enter a different name: >>> ")
 haircut2 = input("Enter a different haircut: >>> ")
@@ -29,3 +29,27 @@ print(name1, "thinks that", food1, "is", adjective1)
 print("and", food2, "is", adjective2)
 print("But,", name2, "thinks that", food1, "is", adjective2)
 print("and", food2, "is", adjective1)
+print("Well done on completing MAD-LIB 2", name1)
+print("Now, try this:")
+print("")
+print("")
+
+location1 = input("Enter a location >>> ")
+event1 = input("Enter an event >>> ")
+location2 = input("Enter a different location >>> ")
+
+print(name1, "and", name2, "went to", location1)
+print("But then", event1, "happened")
+print(name1, "and", name2, "then ran away to", location2)
+
+sentence1 = input("Enter a sentence >>> ")
+sentence2 = input("Enter another sentence >>> ")
+
+print(name1, "then gets in an argument with", name2)
+print(name1, "says that", sentence1)
+print("But", name2, "thinks that", sentence2)
+
+
+
+
+
