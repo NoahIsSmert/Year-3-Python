@@ -1,0 +1,26 @@
+#Data Types
+character = "d"
+realFloat = 54.55
+Integer = 2
+boolean = True
+string = "abc123"
+#C.R.I.B.S is a way to remember all the data types
+
+#You can "cast" for data types
+#For example:
+name = str(input("Enter name >>> "))
+#in this code, str means we want the date entered...
+#as a string
+
+age = int(input("Enter age >>> "))
+#in this code, int means we want the date entered...
+#as an integer
+
+price = float(input("Enter price >>> "))
+#in this code, float means we want the date entered...
+#as a decimal number
+
+#This is called "casting" for data types
+
+
+
