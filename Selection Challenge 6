@@ -1,0 +1,22 @@
+#Selection challenge 06 (GCSECS.com)
+#Fix any syntax errors
+#Syntax error means missing : or ) etc
+#Fix any indentation errors
+#Put code in correct order
+#"and", "or", "not" are boolean operators
+#Fix the boolean operators
+#Fix relational/comparison operators
+
+age = 13
+ticket = True
+if age >= 15 and ticket == True:
+  print("Welcome to the cinema")
+  print("Please find your seat")
+elif age < 15:
+  print("This movie is rated 15")
+  print("You are not allowed this time")
+else:
+  print("You are not allowed this time")
+  
+
+
