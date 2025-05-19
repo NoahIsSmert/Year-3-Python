@@ -1,0 +1,4 @@
+LoopCount = 0
+while LoopCount != 10:
+    LoopCount = LoopCount + 1
+    print("The loop count is", LoopCount)
