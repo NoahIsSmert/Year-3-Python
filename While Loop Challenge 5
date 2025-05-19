@@ -1,0 +1,6 @@
+username = ""
+while not username:
+    username = str(input("Enter username: "))
+if username != "":
+    print("Your username is:", username)
+    print("Username accepted!")
